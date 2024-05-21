@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+#welcome{
+    font-family: monospace;
+    padding: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.question{
+    margin: 10px;
+}
+
+.options{
+    width: 100%;
+    padding: 4px;
+    margin-bottom: 5px;
+}
